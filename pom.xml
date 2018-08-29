@@ -13,6 +13,7 @@
         <module>book-service</module>
         <module>config-service</module>
         <module>discoveryB-service</module>
+        <module>gateway</module>
     </modules>
 
     <dependencies>
